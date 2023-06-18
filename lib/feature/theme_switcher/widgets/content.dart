@@ -6,9 +6,7 @@ import 'package:themeswitcher/core/root/injector.dart';
 import 'package:themeswitcher/core/root/navigator_service.dart';
 import 'package:themeswitcher/feature/theme_switcher/mobx/store.dart';
 import 'package:themeswitcher/feature/theme_switcher/widgets/toggle/toggle.dart';
-import 'package:themeswitcher/feature/theme_switcher/mobx/store.dart';
 import 'package:themeswitcher/feature/theme_switcher/widgets/history/list.dart';
-import 'package:themeswitcher/feature/theme_switcher/widgets/toggle/toggle.dart';
 import 'package:themeswitcher/theme/default/default_button.dart';
 
 class ThemeSwitcherContent extends StatelessWidget {

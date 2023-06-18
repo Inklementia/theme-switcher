@@ -3,13 +3,10 @@ import 'package:flutter/material.dart';
 
 // Project imports:
 import 'package:themeswitcher/conf/assets/icon_constants.dart';
-import 'package:themeswitcher/conf/enums/theme_colors_enum.dart';
-import 'package:themeswitcher/conf/values/color_constants.dart';
 import 'package:themeswitcher/conf/values/edge_insets_constants.dart';
 import 'package:themeswitcher/core/root/injector.dart';
 import 'package:themeswitcher/core/root/navigator_service.dart';
 import 'package:themeswitcher/theme/text/text18/text_18_semi_bold.dart';
-import 'package:themeswitcher/utils/media_helper.dart';
 import 'default_container.dart';
 import 'default_gesture.dart';
 import 'default_icon.dart';

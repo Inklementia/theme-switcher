@@ -11,8 +11,6 @@ import 'conf/values/strings_constants.dart';
 import 'core/navigator/route_generator.dart';
 import 'core/navigator/routes_constants.dart';
 import 'core/root/navigator_service.dart';
-import 'utils/media_helper.dart';
-import 'utils/my_scroll_behavior.dart';
 
 class MyApp extends StatelessWidget {
   //

@@ -1,7 +1,6 @@
 // Flutter imports:
 import 'package:flutter/material.dart';
 // Package imports:
-import 'package:provider/provider.dart';
 
 // Project imports:
 import 'package:themeswitcher/conf/values/strings_constants.dart';
