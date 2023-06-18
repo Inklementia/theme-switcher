@@ -29,7 +29,6 @@ extension AppThemeExtension on AppTheme {
           appBarTheme: AppBarTheme(
             elevation: 0,
             color: MyColors.black,
-            actionsIconTheme: IconThemeData(color: MyColors.white),
             titleTextStyle: TextStyle(color: MyColors.white),
             iconTheme: IconThemeData(color: MyColors.black),
           ),
