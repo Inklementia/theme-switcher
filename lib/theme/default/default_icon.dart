@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 
 // Package imports:
 import 'package:flutter_svg/flutter_svg.dart';
+import 'package:themeswitcher/conf/values/color_constants.dart';
 
 // Project imports:
 import 'package:themeswitcher/conf/values/edge_insets_constants.dart';
@@ -47,8 +48,9 @@ class MyIcon extends StatelessWidget {
         child: SvgPicture.asset(
           icon,
           width: width ?? size,
-          height: height ?? size,
           fit: BoxFit.scaleDown,
+          height: height ?? size,
+          color: MyColors.primary,
         ),
       ),
     );
