@@ -15,9 +15,8 @@ extension AppThemeExtension on AppTheme {
           brightness: Brightness.light,
           scaffoldBackgroundColor: MyColors.white,
           appBarTheme: AppBarTheme(
-            color: MyColors.white,
             elevation: 0,
-            actionsIconTheme: IconThemeData(color: MyColors.black),
+            color: MyColors.white,
             titleTextStyle: TextStyle(color: MyColors.black),
             iconTheme: IconThemeData(color: MyColors.black),
           ),
